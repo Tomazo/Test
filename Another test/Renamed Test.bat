@@ -1,1 +1,1 @@
-echo 'Test';
+echo 'Renamed Test';
