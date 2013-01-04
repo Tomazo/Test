@@ -1,1 +1,2 @@
+#define SEVEN
 #define EIGHT
