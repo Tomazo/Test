@@ -1,2 +1,2 @@
-echo 'Test';
+echo 'Welcome Test';
 cls
