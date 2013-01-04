@@ -1,1 +1,3 @@
 echo 'Renamed Test';
+cls
+
